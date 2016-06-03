@@ -1,4 +1,4 @@
-# move-to-japan
+# Taiwanese Work in Japan
 
 去日本打拚的各種筆記。
 
@@ -6,4 +6,4 @@
 
 ---
 
-Inspired by: [ascendbruce/taiwanese-developer-in-singapore](https://github.com/ascendbruce/taiwanese-developers-in-singapore)
+其他國家請參考 [taiwanese-work-in](https://github.com/taiwanese-work-in)
